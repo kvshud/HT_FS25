@@ -1,5 +1,6 @@
 
 <img src="[https://www.explainxkcd.com/wiki/images/b/b0/millennium_problems.png]" width="400">
+
 # Introduction
 
 The aim of this course is to explore recent breakthroughs in the application of o-minimal geometry to Hodge theory, developed in the seminal works of Bakker, Brunebarbe, Klingler, and Tsimerman. Two central goals will guide our course:
