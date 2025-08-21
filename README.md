@@ -1,5 +1,5 @@
 
-<img src="[https://www.explainxkcd.com/wiki/images/b/b0/millennium_problems.png]" width="400">
+![Alt text](https://www.explainxkcd.com/wiki/images/b/b0/millennium_problems.png)
 
 # Introduction
 
