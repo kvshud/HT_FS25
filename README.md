@@ -1,28 +1,43 @@
 
 ![Alt text](https://www.explainxkcd.com/wiki/images/b/b0/millennium_problems.png)
 
-# Introduction
+# ✨ Course Announcement ✨  
 
-The aim of this course is to explore recent breakthroughs in the application of o-minimal geometry to Hodge theory, developed in the seminal works of Bakker, Brunebarbe, Klingler, and Tsimerman. Two central goals will guide our course:
+This course will take us on a journey through some of the most exciting recent advances in modern geometry, where **o-minimal geometry meets Hodge theory**. Building on the groundbreaking work of **Bakker, Brunebarbe, Klingler, and Tsimerman**, we will explore how tools from logic and real geometry can resolve long-standing problems in algebraic geometry.  
 
-	1.	To understand the new proof of the Cattani–Deligne–Kaplan Theorem on the algebraicity of Hodge loci.
+---
 
-    2. To delve into the resolution of Griffiths’s long-standing conjecture on the quasi-projectivity of images of period maps.
+## 🎯 Course Goals  
+1. Understand the new proof of the **Cattani–Deligne–Kaplan Theorem** on the algebraicity of Hodge loci.  
+2. Learn how the long-standing **Griffiths Conjecture** on the quasi-projectivity of images of period maps was finally solved.  
 
-The course will be structured in three parts:
+---
 
- 1. **Foundations of Hodge Theory**
-We begin with an introduction to Hodge theory, covering (mixed) Hodge structures, their variations and degenerations, and culminating in an account of Schmid’s SL_2-orbit theorem.
+## 📚 Course Outline  
 
- 2.	**O-minimal Geometry**
+### 1. Introduction to Hodge Theory  
+We’ll begin with the fundamentals:  
+- Hodge structures (pure and mixed)  
+- Variations and degenerations  
+- Schmid’s celebrated \( SL_2 \)-orbit theorem  
 
-Next, we turn to the basics of o-minimal geometry, highlighting Wilkie’s striking result that the semi-algebraic sets, together with the graph of the exponential function, form an o-minimal structure. This perspective will serve as the key bridge to recent advances in Hodge theory.
+---
 
- 3.	**(Almost) a million dollars!**
+### 2. O-minimal Geometry: Taming Infinity  
+Here we enter the world of o-minimal structures, the key tool behind the breakthroughs. We will focus on two landmark results:  
+- **Wilkie’s Theorem**: semi-algebraic sets together with the graph of the exponential function form an o-minimal structure.  
+- **Peterzil–Starchenko Theorem**: complex analytic sets definable in an o-minimal structure are in fact algebraic.  
 
-Finally, we will engage with the heart of the subject:
-	•	The algebraicity of Hodge loci.
-	•	Griffiths’s Conjecture on the quasi-projectivity of period map images.
+These results provide the essential bridge between real analytic definability and algebraic geometry.  
+
+---
+
+### 3. Breakthroughs in Hodge Theory  
+Finally, we bring the strands together to understand the proofs of:  
+- The algebraicity of Hodge loci.  
+- Griffiths’s Conjecture on the quasi-projectivity of period map images.  
+
+
 # Schedule
 
 The classes are at de Bartolo 225 from 2-3:15 PM on Mondays and Wednesdays.
