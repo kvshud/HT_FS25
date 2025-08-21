@@ -3,13 +3,13 @@
 
 # ✨ Course Announcement ✨  
 
-This course will take us on a journey through some of the most exciting recent advances in modern geometry, where **o-minimal geometry meets Hodge theory**. Building on the groundbreaking work of **Bakker, Brunebarbe, Klingler, and Tsimerman**, we will explore how tools from logic and real geometry can resolve long-standing problems in algebraic geometry.  
+The aim of this course is to explore recent breakthroughs in the application of o-minimal geometry to Hodge theory, developed in the seminal works of Bakker, Brunebarbe, Klingler, and Tsimerman. 
 
 ---
 
 ## 🎯 Course Goals  
 1. Understand the new proof of the **Cattani–Deligne–Kaplan Theorem** on the algebraicity of Hodge loci.  
-2. Learn how the long-standing **Griffiths Conjecture** on the quasi-projectivity of images of period maps was finally solved.  
+2. Proof of **Griffiths Conjecture** on the quasi-projectivity of images of period maps.  
 
 ---
 
@@ -23,8 +23,8 @@ We’ll begin with the fundamentals:
 
 ---
 
-### 2. O-minimal Geometry: Taming Infinity  
-Here we enter the world of o-minimal structures, the key tool behind the breakthroughs. We will focus on two landmark results:  
+### 2. O-minimal Geometry
+Here we enter the world of o-minimal structures, the key tool behind the breakthroughs. We will focus on two results:  
 - **Wilkie’s Theorem**: semi-algebraic sets together with the graph of the exponential function form an o-minimal structure.  
 - **Peterzil–Starchenko Theorem**: complex analytic sets definable in an o-minimal structure are in fact algebraic.  
 
@@ -32,7 +32,7 @@ These results provide the essential bridge between real analytic definability an
 
 ---
 
-### 3. Breakthroughs in Hodge Theory  
+### 3. (Almost) a million dollars!  
 Finally, we bring the strands together to understand the proofs of:  
 - The algebraicity of Hodge loci.  
 - Griffiths’s Conjecture on the quasi-projectivity of period map images.  
