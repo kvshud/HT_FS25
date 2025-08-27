@@ -1,0 +1,5 @@
+# Keep TeX sources private
+*.tex
+*.bib
+*.cls
+*.sty
